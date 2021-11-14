@@ -18,7 +18,7 @@ void loop() {
 
 void set_dados(){
   set = Wire.read();
-
+// O que aconteceu aqui que o if está vazio???
   if(){
     //leitura dos sensores
     }
